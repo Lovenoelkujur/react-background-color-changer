@@ -15,47 +15,47 @@ function App() {
       <div className='btn-container'>
         <div className='btn-holder'>
         <button
-            style={{backgroundColor:"white"}}
+            style={{backgroundColor:"white", color: "black"}}
             onClick={() => setBgColor("white")}
           >White</button>
 
           <button
-            style={{backgroundColor:"red"}}
+            style={{backgroundColor:"red", color: "black"}}
             onClick={() => setBgColor("red")}
           >Red</button>
 
           <button
-            style={{backgroundColor:"blue"}}
+            style={{backgroundColor:"blue", color: "black"}}
             onClick={() => setBgColor("blue")}
           >Blue</button>
 
           <button
-            style={{backgroundColor:"green"}}
+            style={{backgroundColor:"green", color: "black"}}
             onClick={() => setBgColor("green")}
           >Green</button>
 
           <button
-            style={{backgroundColor:"yellow"}}
+            style={{backgroundColor:"yellow", color: "black"}}
             onClick={() => setBgColor("yellow")}
           >Yellow</button>
 
           <button
-            style={{backgroundColor:"pink"}}
+            style={{backgroundColor:"pink", color: "black"}}
             onClick={() => setBgColor("pink")}
           >Pink</button>
 
           <button
-            style={{backgroundColor:"orange"}}
+            style={{backgroundColor:"orange", color: "black"}}
             onClick={() => setBgColor("orange")}
           >Orange</button>
 
           <button
-            style={{backgroundColor:"purple"}}
+            style={{backgroundColor:"purple", color: "black"}}
             onClick={() => setBgColor("purple")}
           >Purple</button>
 
           <button
-            style={{backgroundColor:"magenta"}}
+            style={{backgroundColor:"magenta", color: "black"}}
             onClick={() => setBgColor("magenta")}
           >Magenta</button>
 
